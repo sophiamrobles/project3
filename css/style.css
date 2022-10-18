@@ -38,18 +38,19 @@ h1 {
   font-size: 50px;
   padding-bottom: 0%;
   }
-#contact {
-  color: hotpink;
-  text-align: left;
-  font-size: 15px;
-  font-style: italic;
-  font-weight: bold;
-  padding-top: 0%;
-  padding-bottom: 20px;
+h2{
+  color:rgb(250, 46, 148)
 }
-h3 {
-  color:hotpink;
-  font-style:italic;
-  font-weight:lighter;
-  }
+h4{
+  color: rgb(255, 0, 128);
+}
 
+  #contact {
+    color: hotpink;
+    text-align: left;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 0%;
+    padding-bottom: 20px;
+  }
