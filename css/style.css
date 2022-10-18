@@ -40,12 +40,11 @@ nav ul li{
 nav ul li a{
     float: left; 
     position: relative;
-    left: 50%;
-    right: 50%;
     display: block;
     padding: 10px 20px;
     color: #fff;
     text-decoration: none;
+    text-align: center;
 }
 nav ul li a:hover {
     background-color: mistyrose;
