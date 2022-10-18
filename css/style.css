@@ -35,12 +35,16 @@ h1 {
     color:hotpink;
     font-weight: bold;
     position: relative;
-    text-align:left;
+    text-align:center;
     font-size: 40px;
     padding-bottom: 20px;
   }
+h2{}
 h3 {
     color:hotpink;
     font-style:italic;
     font-weight:lighter;
   }
+#name{
+  text-align: center;
+}
