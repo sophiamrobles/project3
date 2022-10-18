@@ -1,5 +1,5 @@
 #main-navbar {
-  background-color: magenta;
+  background-color: hotpink;
   overflow:hidden;
 }
 #navbar-container{
@@ -19,7 +19,7 @@
   position: relative;
   display: block;
   padding: 10px 20px;
-  color: #fff;
+  color: rgb(255, 252, 254);
   text-decoration: none;
 }
 #main-navbar ul li a:hover {
@@ -36,7 +36,7 @@ h1 {
     font-weight: bold;
     position: relative;
     text-align:left;
-    font-size: 32px;
+    font-size: 50px;
   }
 h3 {
     color:hotpink;
