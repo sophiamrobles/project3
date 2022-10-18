@@ -29,7 +29,6 @@
 body {
   background-color: mistyrose;
   font-family: 'Times New Roman', Times, serif;
-  text-align: center;
   position:relative;
   }
 #name {
@@ -42,7 +41,8 @@ body {
   }
 #contact{
   color: hotpink;
-  font-size:30px;
+  font-size: 10px;
+  font-style: italic;
   padding-bottom: 20px;
 }
 h3 {
