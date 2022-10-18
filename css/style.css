@@ -27,23 +27,28 @@
   color: hotpink;
 }
 body {
-    background-color: mistyrose;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
+  background-color: mistyrose;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  position:relative;
   }
 h1 {
-    color:hotpink;
-    font-weight: bold;
-    position: relative;
-    text-align:center;
-    font-size: 40px;
-    padding-bottom: 20px;
+  color:hotpink;
+  font-weight: bold;
+  position: relative;
+  text-align:left;
+  font-size: 40px;
+  padding-bottom: 10px;
   }
-h2{}
+h2{
+  color: hotpink;
+  font-size:30px;
+  padding-bottom: 20px;
+}
 h3 {
-    color:hotpink;
-    font-style:italic;
-    font-weight:lighter;
+  color:hotpink;
+  font-style:italic;
+  font-weight:lighter;
   }
 #name{
   text-align: center;
