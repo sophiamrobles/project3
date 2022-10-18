@@ -34,7 +34,9 @@ body {
 h1 {
     color:hotpink;
     font-weight: bold;
-    position: relative;
+    position: absolute;
+    text-align:left;
+    font-size: 32px;
   }
 h3 {
     color:hotpink;
