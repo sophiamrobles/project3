@@ -24,7 +24,7 @@
 }
 #main-navbar ul li a:hover {
   background-color: mistyrose;
-  font-style: bold;
+  color: hotpink;
 }
 body {
     background-color: mistyrose;
