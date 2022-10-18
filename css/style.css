@@ -18,28 +18,26 @@ h3 {
     font-style:italic;
     font-weight:lighter;
   }
-nav {
+#main-navbar {
     background-color: magenta;
     overflow:hidden;
     float: left; 
     width: 100%;  
     position: relative;
 }
-nav ul {
+#main-navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     position: relative;
     left: 50%;
-    float: left;
-    display: block;
+    display: inline-block;
     text-align: center;
 }
-nav ul li{
+#main-navbar ul li{
     float: left;
 }
-nav ul li a{
-    float: left; 
+#main-navbar ul li a{
     position: relative;
     right: 50%;
     display: block;
@@ -47,7 +45,7 @@ nav ul li a{
     color: #fff;
     text-decoration: none;
 }
-nav ul li a:hover {
+#main-navbar ul li a:hover {
     background-color: mistyrose;
     text-decoration: bold;
 }
