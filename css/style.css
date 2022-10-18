@@ -29,14 +29,13 @@
 body {
   background-color: mistyrose;
   font-family: 'Times New Roman', Times, serif;
-  position:relative;
   }
 #name {
   color:hotpink;
   font-weight: bolder;
   text-align:left;
   font-size: 40px;
-  padding-bottom: 10px;
+  padding-bottom: 0;
   }
 #contact{
   color: hotpink;
