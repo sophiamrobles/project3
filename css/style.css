@@ -32,7 +32,7 @@ body {
   text-align: center;
   position:relative;
   }
-h1 {
+#name {
   color:hotpink;
   font-weight: bold;
   position: relative;
