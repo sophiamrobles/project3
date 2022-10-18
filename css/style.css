@@ -36,7 +36,7 @@ body {
   font-weight: bolder;
   text-align:left;
   font-size: 40px;
-  padding-bottom: 0;
+  padding-bottom: 0%;
   }
 #contact{
   color: hotpink;
@@ -44,6 +44,7 @@ body {
   font-size: 15px;
   font-style: italic;
   font-weight: bold;
+  padding-top: 0%;
   padding-bottom: 20px;
 }
 h3 {
