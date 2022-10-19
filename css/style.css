@@ -31,7 +31,7 @@ body {
   font-family: 'Times New Roman', Times, serif;
   text-align:center;
   }
-h1 {
+#name {
   color:hotpink;
   font-weight: bolder;
   text-align:left;
