@@ -80,8 +80,21 @@ h4 {
   font-weight: bold;
   padding-top: 0%;
   padding-bottom: 20px;
+  font-style: italic;
 }
-#dance{
+#class{
   max-width: 100%;
   max-height: 75%;
+}
+#arabesque{
+  max-width: 200px;
+  max-height: 200px;
+}
+#blackwhite{
+  max-width: 100%;
+  max-height: 100%;
+}
+#powderdance{
+  max-width: 1.5em;
+  max-height: 1.5em;
 }
