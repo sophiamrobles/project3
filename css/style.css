@@ -81,3 +81,7 @@ h4 {
   padding-top: 0%;
   padding-bottom: 20px;
 }
+#class{
+  max-width: 50%;
+  max-height: 50%;
+}
