@@ -30,7 +30,7 @@ body {
   background-color: mistyrose;
   font-family: 'Times New Roman', Times, serif;
   text-align:center;
-  color:rgb(225, 0, 112)
+  color:hotpink;
 }
 #name {
   color:hotpink;
@@ -40,13 +40,13 @@ body {
   padding-bottom: 0%;
 }
 h2 {
-  color:rgb(250, 46, 148);
+  color:rgb(255, 64, 159);
   font-size: 35px;
   padding: 3%;
   padding: .75em;
 }
 h4 {
-  color:hotpink;
+  color:rgb(237, 25, 131);
   font-size: 1.2em;
 }
 
@@ -66,7 +66,7 @@ h4 {
 }
 #major{
   font-weight:bold;
-  padding:3%;
+  padding:2%;
 }
 #achievement{
   list-style-type: none;
@@ -74,5 +74,4 @@ h4 {
 #year{
   font-style:italic;
   font-weight:lighter;
-
 }
