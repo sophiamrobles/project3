@@ -41,7 +41,8 @@ body {
 h2 {
   color:rgb(250, 46, 148);
   font-size: 35px;
-  padding: 2%;
+  padding: 3%;
+  padding: .75em;
 }
 h4 {
   color:hotpink;
