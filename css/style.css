@@ -30,28 +30,28 @@ body {
   background-color: mistyrose;
   font-family: 'Times New Roman', Times, serif;
   text-align:center;
-  }
+}
 #name {
   color:hotpink;
   font-weight: bolder;
   text-align:left;
   font-size: 60px;
   padding-bottom: 0%;
-  }
+}
 h2 {
   color:rgb(250, 46, 148);
-  font-size: 40px;
+  font-size: 35px;
 }
 h4 {
   color:hotpink;
 }
 
-  #contact {
-    color: hotpink;
-    text-align: left;
-    font-size: 15px;
-    font-style: italic;
-    font-weight: bold;
-    padding-top: 0%;
-    padding-bottom: 20px;
-  }
+#contact {
+  color: hotpink;
+  text-align: left;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: bold;
+  padding-top: 0%;
+  padding-bottom: 20px;
+}
