@@ -58,3 +58,11 @@ h4 {
   padding-top: 0%;
   padding-bottom: 20px;
 }
+#institution {
+  font-weight:lighter;
+  padding-bottom:10px;
+}
+#major{
+  font-weight:bold;
+  padding:5%;
+}
