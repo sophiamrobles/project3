@@ -76,7 +76,7 @@ h4 {
 }
 #portfolio {
   text-align: left;
-  font-size: 15px;
+  font-size: 25px;
   font-weight: bold;
   padding-top: 0%;
   padding-bottom: 20px;
@@ -84,7 +84,4 @@ h4 {
 #dance{
   max-width: 100%;
   max-height: 75%;
-}
-#bw{
-  position:fixed;
 }
