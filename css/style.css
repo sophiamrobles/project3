@@ -30,6 +30,7 @@ body {
   background-color: mistyrose;
   font-family: 'Times New Roman', Times, serif;
   text-align:center;
+  color:rgb(225, 0, 112)
 }
 #name {
   color:hotpink;
@@ -68,4 +69,9 @@ h4 {
 }
 #achievement{
   list-style-type: none;
+}
+#year{
+  font-style:italic;
+  font-weight:lighter;
+
 }
