@@ -33,6 +33,7 @@ body {
   color:hotpink;
 }
 #name {
+  font-family: 'silkscreen';
   color:hotpink;
   font-weight: bolder;
   text-align:left;
