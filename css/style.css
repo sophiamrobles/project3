@@ -38,7 +38,6 @@ body {
   color:hotpink;
   font-weight: bolder;
   text-align:left;
-  float: left;
   font-size: 60px;
   padding-bottom: 0%;
 }
@@ -69,6 +68,7 @@ ul{
 }
 #portfolio {
   float: left;
+  text-align: left;
   font-size: 25px;
   font-weight: bold;
   padding-top: 0%;
