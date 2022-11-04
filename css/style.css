@@ -36,7 +36,8 @@ body {
   font-family: 'silkscreen';
   color:hotpink;
   font-weight: bolder;
-  float:left;
+  text-align:left;
+  float: left;
   font-size: 60px;
   padding-bottom: 0%;
 }
@@ -54,6 +55,7 @@ h4 {
   padding-top:0.5em;
 }
 #contact {
+  text-align: left;
   float: left;
   font-size: 15px;
   font-style: italic;
