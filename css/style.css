@@ -39,6 +39,7 @@ body {
   color:hotpink;
   font-weight: bolder;
   text-align:left;
+  position: absolute;
   font-size: 60px;
   padding-bottom: 2%;
 }
@@ -64,7 +65,7 @@ h4 {
   font-style: italic;
   font-weight: bold;
   padding-top: 5%;
-  padding-bottom: 20%;
+  padding-bottom: 3%;
 }
 ul{
   list-style-type: none;
