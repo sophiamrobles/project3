@@ -1,5 +1,5 @@
 #main-navbar {
-  background-color: hotpink;
+  background-color: rgb(246, 41, 144);
   overflow:hidden;
 }
 #navbar-container{
@@ -24,18 +24,18 @@
 }
 #main-navbar ul li a:hover {
   background-color: mistyrose;
-  color: hotpink;
+  color: rgb(246, 41, 144);
 }
 body {
   background-color: mistyrose;
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
-  color:hotpink;
+  color:rgb(246, 41, 144);
   padding: 2%;
 }
 #name {
   font-family: 'silkscreen';
-  color:hotpink;
+  color:rgb(246, 41, 144);
   font-weight: bolder;
   text-align:left;
   position: sticky;
@@ -43,13 +43,13 @@ body {
   padding: 1%;
 }
 h2 {
-  color:rgb(255, 64, 159);
+  color:rgb(250, 0, 125);
   position: sticky;
   font-size: 35px;
   padding: .75em;
 }
 h4 {
-  color:rgb(237, 25, 131);
+  color:rgb(250, 0, 125);
   font-size: 1.2em;
   font-weight:lighter;
   padding-bottom: 2%;
