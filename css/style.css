@@ -44,10 +44,9 @@ body {
 }
 h2 {
   color:rgb(255, 64, 159);
-  float: none;
+  position: sticky;
   font-size: 35px;
-  padding-top: 3%;
-  padding-bottom: .75em;
+  padding: .75em;
 }
 h4 {
   color:rgb(237, 25, 131);
