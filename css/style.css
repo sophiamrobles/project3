@@ -31,8 +31,7 @@ body {
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
   color:hotpink;
-  padding-left: 2%;
-  padding-right: 2%;
+  padding: 2%;
 }
 #name {
   font-family: 'silkscreen';
