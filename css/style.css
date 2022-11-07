@@ -67,7 +67,7 @@ ul{
   list-style-type: none;
 }
 #portfolio {
-  float: left;
+  float: none;
   text-align: left;
   font-size: 25px;
   font-weight: bold;
