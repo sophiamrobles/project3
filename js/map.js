@@ -4,4 +4,3 @@ function initMap() {
         document.getElementById("map"), {zoom:10, center: coordinates});
     var marker = new google.maps.Marker({position: coordinates, map:map});
 }
-window.initMap = initMap;
