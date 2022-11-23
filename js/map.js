@@ -3,6 +3,9 @@ function initMap() {
     var map = new google.maps.Map(
         document.getElementById('map'), {zoom:10, center: cocochanel});
     var marker = new google.maps.Marker({position: cocochanel, map:map,});
+    var infowindow = new google.maps.InfoWindow({
+        content:"I love this store"});
+    infowindow.open(map, marker);
 }
 window.initMap = initMap;
 
