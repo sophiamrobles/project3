@@ -103,10 +103,7 @@ ul{
   }
   #main-navbar ul li a:hover {
     background-color: mistyrose;
-    color: rgb(246, 41, 144);
-  }
-  #body{
-    text-align: left;
+    color:black;
   }
 }
 @media screen and (min-width:500px) {
