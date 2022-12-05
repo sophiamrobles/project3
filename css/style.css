@@ -103,7 +103,7 @@ ul{
     text-align:center;
     padding:0%;
     margin:auto auto auto auto;
-    border:5px black;
+    border:5px ridge black;
   }
 }
 @media screen and (min-width:500px) {
