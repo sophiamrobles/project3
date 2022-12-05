@@ -97,7 +97,7 @@ ul{
   #box{
     background-color: aliceblue;
     padding:0%;
-    margin:auto auto auto auto;
+    margin:auto auto auto 10%;
     border:5px double black;
   }
   #main-navbar ul li a:hover {
