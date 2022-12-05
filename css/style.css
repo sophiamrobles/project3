@@ -94,19 +94,20 @@ ul{
   height: 50%;
 }
 @media screen and (min-width:500px) {
-  #box{
-    background-color: aliceblue;
+  h2{
+    background-color: rgb(222, 161, 222);
     padding:0%;
-    border:5px double black;
+    border:5px double rgb(246, 41, 144);
   }
   #main-navbar ul li a:hover {
-    background-color: white;
-    color:black;
+    background-color: mistyrose;
+    color:rgb(246, 41, 144);
+    font-weight:bold;
   }
 }
 @media screen and (min-width:500px) {
   #map{
-    border:5px solid black;
+    border:5px solid rgb(246, 41, 144);
     float: inline-start;
     margin:auto auto auto auto;
     width: 75%;
